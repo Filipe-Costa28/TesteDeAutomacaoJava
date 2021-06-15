@@ -26,9 +26,9 @@ Teste QA2<br/>
 
 Teste QA3<br/>
 <b>Funcionalidade:</b> Busca no Banco de Questões <br/>
-<b>Cenário:</b> Busca por questão passando como parâmetro a <b>usuario</b> <b>"Coldflame"</b><br/>
+<b>Cenário:</b> Busca por questão passando como parâmetro a <b>usuário</b> <b>"Coldflame"</b><br/>
 <b>Dado</b> que navego para a página de busca do banco de questões<br/>
 <b>E</b> digito "Coldflame" no campo de busca, como também seleciono o tipo de busco por usuário<br/>
 <b>Quando</b> clico no botão de buscar<br/>
-<b>Então</b> visualizo uma lista com 8 itens, em seguida clino no link "Coldflame" e valido se o numero total de 
-retono de questão pelo usuário confere com o listados nas duas abas apresentadas.<br/><br/>
+<b>Então</b> visualizo uma lista com 8 itens, em seguida clico no link "Coldflame" e valido se o número total de 
+retorno de questão pelo usuário confere com os listados nas duas páginas apresentadas.<br/><br/>
