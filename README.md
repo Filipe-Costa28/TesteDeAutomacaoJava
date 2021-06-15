@@ -2,7 +2,7 @@
 	<span style="color:orange;">TesteDeAutomacaoJava</span>
 </h1>
 
-Esse foi um desafio enviado pela CI&T durante o cruso de ADS "Teste de Automação para QA - CI&T".
+Esse foi um desafio enviado pela CI&T durante o curso de ADS "Teste de Automação para QA - CI&T".
 
 https://bitbucket.org/dhiego_ciandt/qa-test/src/main/
 
